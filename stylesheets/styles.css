@@ -364,7 +364,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -503,12 +503,12 @@ table {
 }
 
 body {
-  font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/22px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #666;
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  background: url(../images/low_contrast_linen.png) #eae6d1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -534,7 +534,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color: #666666;
+  color: #000;
 }
 
 h3 {
@@ -659,17 +659,17 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: url(../images/navy_blue.png) #4276b6;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   z-index: 99;
   -webkit-font-smoothing: antialiased;
-  min-height: 76px;
+  min-height: 50px;
 }
 header h1 {
-  font: 40px/48px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 40px/48px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f3f3f3;
   text-shadow: 0px 2px 0px #235796;
   margin: 0px;
@@ -792,7 +792,7 @@ header p {
 }
 
 section {
-  width: 590px;
+  width: 700px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
