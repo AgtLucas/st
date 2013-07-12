@@ -67,7 +67,7 @@ E por algum motivo mais bizarro que ter `<li>` com classes com nomes escrotos, v
 * Coloque o cursor do rato (ora pois) sobre a palavra desejada
 * E... `CMD + D` ou `CTRL + D`
 * Você vai notar que vai selecionar a primeira palavra, e se você repetir o comando, vai selecionar a próxima, e assim por diante
-* Se você for mais pregui.. digo, se você for uma pessoa que procura maximizar a produtividade, `CTRL + CMD + G` e veja a mágica
+* Se você for mais pregui.. digo, se você for uma pessoa que procura maximizar a produtividade, `CTRL + CMD + G` ou `ALT + F3` e veja a mágica
 
 ### Snippets
 
