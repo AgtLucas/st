@@ -150,7 +150,7 @@ Para usar:
 * `CMD + OPTION + N` ou `CTRL + ALT + N` e digitar o nome do arquivo ou da pasta que você deseja
 * Por exemplo, se você digitar: `style.sass`, um arquivo com este nome será criado no root do projeto
 * Se você digitar: `sass/style.sass`, um arquivo com este nome será criado dentro da pasta `sass`,
-* Se você digitar: `sass/`, uma pasta com este nome vai ser criado no root do seu projeto (a não ser que ela já exista)
+* Se você digitar: `sass/`, uma pasta com este nome vai ser criada no root do seu projeto (a não ser que ela já exista)
 
 Done.
 
